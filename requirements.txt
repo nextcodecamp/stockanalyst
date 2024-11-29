@@ -1,0 +1,13 @@
+shiny
+matplotlib
+pandas
+pandas_ta
+yfinance
+Jinja2
+seaborn
+statsmodels
+scikit-learn
+backtesting
+scipy
+pmdarima
+numpy
